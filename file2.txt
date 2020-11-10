@@ -1,1 +1,2 @@
 file2 change1
+file2 change2
